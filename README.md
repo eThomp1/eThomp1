@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi, I'm Edward Thompson
 
+I am currently studying at [Leeds Beckett University](https://www.leedsbeckett.ac.uk/)
+
+Languages I am studying:
+- Python
+- to be continued
 <!--
 **eThomp1/eThomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
